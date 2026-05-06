@@ -1,0 +1,11 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Datos y filtrado}{2}{section.1}%
+\contentsline {section}{\numberline {2}Descripción de la muestra}{2}{section.2}%
+\contentsline {section}{\numberline {3}Descriptivos}{3}{section.3}%
+\contentsline {section}{\numberline {4}Regresiones simples}{4}{section.4}%
+\contentsline {section}{\numberline {5}Modelo multivariante principal}{5}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Diagnóstico básico}{6}{subsection.5.1}%
+\contentsline {section}{\numberline {6}Significación conjunta de \texttt {propertyType} mediante F-test}{6}{section.6}%
+\contentsline {section}{\numberline {7}Extensión con término cuadrático en \texttt {log\_size}}{7}{section.7}%
+\contentsline {section}{\numberline {8}Conclusiones empresariales}{7}{section.8}%
+\contentsline {section}{Apéndice: código R reproducible}{8}{section*.10}%
